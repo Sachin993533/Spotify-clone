@@ -25,9 +25,9 @@ This project focuses on recreating the look and feel of Spotify with clean desig
 ## 📂 Project Structure
 
 ```
-spotify-ui-clone/
-│── index.html
-│── style.css
+Spotify-clone/
+│── SpotifyClone.html
+│── SpotifyClone.css
 │── assets/
 │    ├── images/
 │    └── icons/
