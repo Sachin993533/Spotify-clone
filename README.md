@@ -43,7 +43,7 @@ Spotify-clone/
 
 ### 2️⃣ Open in browser
 
-Simply open `index.html` in your browser.
+Simply open `SpotifyClone.html` in your browser.
 
 ---
 
