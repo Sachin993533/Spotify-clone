@@ -2,6 +2,7 @@
 
 A sleek and responsive **Spotify-inspired web interface** built using pure HTML and CSS.
 This project focuses on recreating the look and feel of Spotify with clean design, structured layout, and modern UI practices.
+
 ---
 
 ## ✨ Features
