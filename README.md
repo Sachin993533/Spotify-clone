@@ -27,7 +27,7 @@ This project focuses on recreating the look and feel of Spotify with clean desig
 
 ```
 Spotify-clone/
-│── SpotifyClone.html
+│── index.html
 │── SpotifyClone.css
 │── assets/
 │    ├── images/
@@ -43,7 +43,7 @@ Spotify-clone/
 
 ### 2️⃣ Open in browser
 
-Simply open `SpotifyClone.html` in your browser.
+Simply open `index.html` in your browser.
 
 ---
 
